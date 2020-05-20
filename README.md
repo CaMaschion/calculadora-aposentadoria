@@ -6,7 +6,7 @@
 
 Aplicativo para cálculo de aponsentadoria por idade. :older_man: :older_woman:
 
-Projeto desenvolvido do livro: Kotlin com Android: Crie aplicativos de maneira fácil e divertida - Por Kassiano Resende
+Projeto desenvolvido a partir do livro: Kotlin com Android: Crie aplicativos de maneira fácil e divertida - Por Kassiano Resende
 
 # Funcionalidades
 
