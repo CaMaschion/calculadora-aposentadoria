@@ -12,6 +12,8 @@ Projeto desenvolvido a partir do livro: Kotlin com Android: Crie aplicativos de 
 
 - calcular tempo restante para aponsetadoria por idade.
 
+![](imagem/calculadora.gif)
+
 
 
 
